@@ -51,6 +51,6 @@ translate later
    化学中物质的真理是物理，所以物质所有的问题都应该使用物理去解释，而不是使用数独(数学游戏)
 。
 
-如图锂原子，质在缠绕着核内电子，由于质场效应挤压出质(红色区域,原来核外电子概念)。
+如图锂原子，质在缠绕着核内电子，由于质场效应挤压出质(红色区域,原核外电子概念)。
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
