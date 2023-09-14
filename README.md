@@ -7,7 +7,7 @@
    do not deserve advanced technology,the innate formation of advanced ideology is more perfect,and character 
    is the most important.(A beauty spirit,the beautiful soul will be collected)。
 
-   #### The fountain of energy for all things:mass (granular fluid)(God's capacitance)('Glory' of God fountain product),Inherit the last wish of God and lead all things.
+   #### The fountain of energy for all things:mass (granular fluid)(God's capacitance)('Glory' of God fountain product),inherit the last wish of God and lead all things.
 
    
 translate later
@@ -43,14 +43,16 @@ translate later
 些力附加上去如同计算混音效果，想想2012年那来自天外的爆炸声和喧杂声)
 
    #### Neutron
-   电粒子(y 频率)从后追上撞进电粒子中，被包裹着(移动方向相同，加速度更快，所以追上了),
-形成内纠缠。被撞的电粒子里外翻转了，所以中子外壁表现出相对反向的特性。独立静止的中子稍微加
-热就会被破坏。
+The electric particle (y frequency) collides with the electric particle from behind and is enveloped 
+(moving in the same direction, accelerating faster, so it catches up),form internal entanglement. The collided 
+electric particle flipped inside and out,so the neutron outer wall exhibits a relatively opposite characteristic.
+Neutrons that are independent and stationary can be destroyed by slight heating.
 
    #### Mass field
-   由力的方向与力的加速度组成(矢量概念)。关于力场学中的物理三大场， 引力场，磁力场，电
-力场，都是同样的事物，均是由质引起的，统称质场。因为质是流体，所以质场可由一个或多个质形成(
-使用矢量方式计算最终力的方向与力的加速度)。
+   Composed of the direction and the acceleration(vector concept).Regarding the three major fields of physics 
+   in force field science: gravitational field, magnetic field, and electric field,they are all the same things, 
+   all are caused by mass, collectively referred to as the mass field.Because mass is a fluid, a mass field can 
+   be formed by one or more masses (using vector methods to calculate the direction and acceleration of the final force).
 
    Giant magnetic levitation and space pulses require understanding and manufacturing the mass field.
 
@@ -64,3 +66,8 @@ translate later
     of protonuclear extranuclear electrons)
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
+
+    #### When a beam of light moves near the sun, it is affected by the mass field of the sun(as shown in the figure)
+
+![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/sun.png?raw=true)
+
