@@ -1,15 +1,16 @@
 # material origin
 
-translate later
-
-# 物质起源
-
-   圣经是由更先进的文明写给先进文明的教诲，以宗旨的方式传播(在各个星系文明中传播，每个阶段
-节点使用的内容和介质不一样)。什么样的思想，就有什么样的文明，什么样的文明，就有什么样的科技
-。劣等文明不配拥有先进的科技，先天形成先进思想则更完美，而品格则最重要(心灵的美，美好的灵魂
-将被收藏)。
+   The Bible is a teaching written by more advanced civilizations to advanced civilizations,
+   Spread in a purposeful manner (spreading among civilizations in various galaxies,The content 
+   and media used by each stage node are different).What kind of ideology, and what kind of civilization generate,
+   what kind of civilization generated, and what kind of technology invented.Inferior civilizations 
+   do not deserve advanced technology,The innate formation of advanced ideology is more perfect,And character 
+   is the most important.(A beauty spirit,The beautiful soul will be collected)。
 
    #### The fountain of energy for all things:mass (granular fluid)(God's capacitance)('Glory' of God fountain product),Inherit the last wish of God and lead all things.
+
+   
+translate later
 
    #### mass(original proton concept, granular fluid)
    吸收红外电粒子的能量(频率跳跃，自旋，移动加速度的动能)，帮助其他电粒子(红外
@@ -57,8 +58,8 @@ translate later
 
     #### Lithium atom (as shown in the figure)
     The mass is entwined with electrons within the nucleus (as shown in the diagram, actually mass connected 
-into one piece, forming an insurmountable outer shell of substance), and due to the mass field effect, the 
-fierce convex part is excited squeezed, the mass field overflows to form extranuclear mass (red region, concept 
-of protonuclear extranuclear electrons)
+    into one piece, forming an insurmountable outer shell of substance), and due to the mass field effect, the 
+    fierce convex part is excited squeezed, the mass field overflows to form extranuclear mass (red region, concept 
+    of protonuclear extranuclear electrons)
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
