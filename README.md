@@ -9,9 +9,9 @@ translate later
 。劣等文明不配拥有先进的科技，先天形成先进思想则更完美，而品格则最重要(心灵的美，美好的灵魂
 将被收藏)。
 
-   #### 万物能量的源泉:质 (粒状流体)(上帝电容)(神的荣耀源泉产物)，传承神的遗志，统领万物。
+   #### The source of energy for all things:mass (granular fluid)(上帝电容)(神的荣耀源泉产物)，传承神的遗志，统领万物。
 
-   #### 质(粒状流体)
+   #### mass(original proton concept, granular fluid)
    吸收红外电粒子的能量(频率跳跃，自旋，移动加速度的动能)，帮助其他电粒子(红外
 频率以外，临界值暂时不明确，与质的冠幅有关)充电。质的力由质与质所传导，质被质场所吸引，并且
 受质场力的方向与力的加速度传导所影响(质作为一份子加入到质场中)。与质场的源距离越远，力的加
@@ -53,11 +53,12 @@ translate later
 
    超磁悬浮，和空间脉冲需要认识质和制造质场。
 
-   化学中物质的真理是物理，所以物质所有的问题都应该使用物理去解释，而不是使用数独(数学游戏)
-。
+   化学中物质的真理是物理，所以物质所有的问题都应该使用物理去解释，而不是使用数独(数学游戏)。
 
-    #### 锂原子(如图)
-    质在缠绕着核内电子(示意图，实际上是连成一片的，形成物质不可逾越的外壳)，由于质场效应激凸部分
-    被挤压,质场外溢形成了核外质(红色区域,原核外电子概念)。
+    #### Lithium atom (as shown in the figure)
+The mass is entwined with electrons within the nucleus (as shown in the diagram, actually mass connected 
+into one piece, forming an insurmountable outer shell of substance), and due to the mass field effect, the 
+fierce convex part is excited squeezed, the mass field overflows to form extranuclear mass (red region, concept 
+of protonuclear extranuclear electrons)
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
