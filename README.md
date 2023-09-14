@@ -1,7 +1,7 @@
 # Substance origin
 
    The Bible is a teaching written by more advanced civilizations to advanced civilizations,
-   spread in a purposeful manner (spreading among civilizations in various galaxies,the content 
+   spread in a religion manner (spreading among civilizations in various galaxies,the content 
    and media used by each stage node are different).What kind of ideology, and what kind of civilization generate,
    what kind of civilization generated, and what kind of technology invented.Inferior civilizations 
    do not deserve advanced technology,the innate formation of advanced ideology is more perfect,and character 
