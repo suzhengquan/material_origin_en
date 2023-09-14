@@ -38,7 +38,7 @@ translate later
    Radio waves is strung together and coherent electrical particles,the electric particles's frequency,
    direction of movement and acceleration is general same. And the spin direction and spin intensity is varying.
 
-   关于声波传播则需要有对质场有效应的气体(有核外电子的物质)，声源震动气体，气体对质场产生了
+   关于声波传播则需要有对质场产生效应的气体(有原子核外质/电容的物质)，声源震动气体，气体对质场产生了
 力的传导，质场从而把力传导到其他物质的原子核外电子(核外质)引起摆动。(即使作用力很小也要把这
 些力附加上去如同计算混音效果，想想2012年那来自天外的爆炸声和喧杂声)
 
