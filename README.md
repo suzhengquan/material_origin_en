@@ -1,18 +1,18 @@
 # material origin
 
    The Bible is a teaching written by more advanced civilizations to advanced civilizations,
-   Spread in a purposeful manner (spreading among civilizations in various galaxies,The content 
+   Spread in a purposeful manner (spreading among civilizations in various galaxies,the content 
    and media used by each stage node are different).What kind of ideology, and what kind of civilization generate,
    what kind of civilization generated, and what kind of technology invented.Inferior civilizations 
-   do not deserve advanced technology,The innate formation of advanced ideology is more perfect,And character 
-   is the most important.(A beauty spirit,The beautiful soul will be collected)。
+   do not deserve advanced technology,the innate formation of advanced ideology is more perfect,and character 
+   is the most important.(A beauty spirit,the beautiful soul will be collected)。
 
    #### The fountain of energy for all things:mass (granular fluid)(God's capacitance)('Glory' of God fountain product),Inherit the last wish of God and lead all things.
 
    
 translate later
 
-   #### mass(original proton concept, granular fluid)
+   #### Mass(original proton concept, granular fluid)
    吸收红外电粒子的能量(频率跳跃，自旋，移动加速度的动能)，帮助其他电粒子(红外
 频率以外，临界值暂时不明确，与质的冠幅有关)充电。质的力由质与质所传导，质被质场所吸引，并且
 受质场力的方向与力的加速度传导所影响(质作为一份子加入到质场中)。与质场的源距离越远，力的加
@@ -25,7 +25,7 @@ translate later
 状态，无限的膨胀以后将成为新的问题)。没有个性的质只能随流(质场)。有个性的质可以一飞冲天，漫
 游星际。
 
-   #### 电子(频率跳跃，自旋的质产生了质场从而形成了电子，如果其一为零，则电子泯灭，剩下质)
+   #### Electrons(with frequency hopping, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
    一般由质(一般情况里面有电子)与质(一般情况里面有电子)的碰撞(消耗这两个质的容量，分配出一个新的质)
 形成移动方向与移动加速度(使用矢量方式计算。光速很快很难捕捉，但光速不是常数，绝大多数情况是
 不同的速度)。伏特不使用正负描述，而是用自旋方向去决定相对的同向与相对的反向(万向，使用矢量
@@ -35,8 +35,8 @@ translate later
 灭。电子频率(跳跃/迁跃)速度>质场力传导速度(无电子效应情况)>光速(有电子效应情况，矢量最终值，
 质移动方向与移动加速度)。
 
-   电波则是成串，连贯的电粒子，同个电波的电粒子频率，移动方向与加速度大体相同，而自旋方向，
-自旋强度有所不同。
+   Radio waves is strung together and coherent electrical particles,the electric particles's frequency,
+   direction of movement and acceleration is general same. And the spin direction and spin intensity is varying.
 
    关于声波传播则需要有对质场有效应的气体(有核外电子的物质)，声源震动气体，气体对质场产生了
 力的传导，质场从而把力传导到其他物质的原子核外电子(核外质)引起摆动。(即使作用力很小也要把这
