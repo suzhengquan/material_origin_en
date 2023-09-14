@@ -1,7 +1,7 @@
-# material origin
+# Substance origin
 
    The Bible is a teaching written by more advanced civilizations to advanced civilizations,
-   Spread in a purposeful manner (spreading among civilizations in various galaxies,the content 
+   spread in a purposeful manner (spreading among civilizations in various galaxies,the content 
    and media used by each stage node are different).What kind of ideology, and what kind of civilization generate,
    what kind of civilization generated, and what kind of technology invented.Inferior civilizations 
    do not deserve advanced technology,the innate formation of advanced ideology is more perfect,and character 
@@ -42,19 +42,20 @@ translate later
 力的传导，质场从而把力传导到其他物质的原子核外电子(核外质)引起摆动。(即使作用力很小也要把这
 些力附加上去如同计算混音效果，想想2012年那来自天外的爆炸声和喧杂声)
 
-   #### 中子
+   #### Neutron
    电粒子(y 频率)从后追上撞进电粒子中，被包裹着(移动方向相同，加速度更快，所以追上了),
 形成内纠缠。被撞的电粒子里外翻转了，所以中子外壁表现出相对反向的特性。独立静止的中子稍微加
 热就会被破坏。
 
-   #### 质场
+   #### Mass field
    由力的方向与力的加速度组成(矢量概念)。关于力场学中的物理三大场， 引力场，磁力场，电
 力场，都是同样的事物，均是由质引起的，统称质场。因为质是流体，所以质场可由一个或多个质形成(
 使用矢量方式计算最终力的方向与力的加速度)。
 
-   超磁悬浮，和空间脉冲需要认识质和制造质场。
+   Giant magnetic levitation and space pulses require understanding and manufacturing the mass field.
 
-   化学中物质的真理是物理，所以物质所有的问题都应该使用物理去解释，而不是使用数独(数学游戏)。
+   Chemistry substance's truth is physics.So all problems with substance should be explained using 
+   physics, rather than using Sudoku (mathematical games).
 
     #### Lithium atom (as shown in the figure)
     The mass is entwined with electrons within the nucleus (as shown in the diagram, actually mass connected 
