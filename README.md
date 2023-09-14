@@ -57,7 +57,7 @@ translate later
 。
 
     #### 锂原子(如图)
-    质在缠绕着核内电子(示意图，实际上是连成一片的，形成物质不可逾越的外壳)，由于质场效应激凸
-部分被挤压,质场外溢形成了核外质(红色区域,原核外电子概念)。
+    质在缠绕着核内电子(示意图，实际上是连成一片的，形成物质不可逾越的外壳)，由于质场效应激凸部分
+    被挤压,质场外溢形成了核外质(红色区域,原核外电子概念)。
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
