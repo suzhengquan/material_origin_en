@@ -26,14 +26,19 @@ translate later
 游星际。
 
    #### Electrons(with frequency hopping, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
-   一般由质(一般情况里面有电子)与质(一般情况里面有电子)的碰撞(消耗这两个质的容量，分配出一个新的质)
-形成移动方向与移动加速度(使用矢量方式计算。光速很快很难捕捉，但光速不是常数，绝大多数情况是
-不同的速度)。伏特不使用正负描述，而是用自旋方向去决定相对的同向与相对的反向(万向，使用矢量
-方式计算)，而自旋的强度决定电伏(伏特，正比，相对的强，相对的弱)。电频(频率)形成电子的轮廓(如
-同齿轮样子)，频率越低齿宽(齿轮概念)越大，频率越高齿宽越小如同圆(无限接近圆)。当齿宽(二分之一)
-大于质的冠幅，电子将在质与质之间迁跃(受到质的牵引电子突破质场时会消耗部分自旋动能，同时可以理解为
-一个质的电容迁跃到其他质中了)，直至泯灭。电子频率(跳跃/迁跃)速度>质场力传导速度(无电子效应情况)>光速(有电
-子效应情况，矢量最终值，质移动方向与移动加速度)。
+   Usually, the collision between mass (with electrons in general) and mass (with electrons in general) consumes 
+   the capacity of these two masses and allocates a new mass to form the direction and acceleration of 
+   movement(Calculate using vector method. The speed of light is very fast and difficult to capture, but 
+   the speed of light is not a constant, and in most cases it is at a different speed).Volt does not use a 
+   positive or negative description, but rather uses the spin direction to determine the relative direction and 
+   opposite direction (universal, calculated using vector method), and the strength of the spin determines the 
+   electric voltage(Volt, proportional, relative strong, relative weak)。Electric frequency forming the contour of 
+   electrons(Like a gear)，The lower the frequency, the larger the tooth width (gear concept),The higher the frequency, 
+   the smaller the tooth width, like a circle(Infinite proximity circle).When the tooth width (a half) is greater than the mass
+   crown width,electrons will migrated between masses(When electrons are pulled by the mass to break through the mass field, 
+   they will consume some spin kinetic energy, which can be understood as a part capacitor of mass has migrated to another mass),
+   until electrons disappears.Electronic frequency (flutter/migrated) speed > Mass field force transmission velocity (without electronic effects)>Speed of 
+   light (with electronic effects, final vector value, direction of mass movement and acceleration)
 
    Radio waves is strung together and coherent electrical particles,the electric particles's frequency,
    direction of movement and acceleration is general same. And the spin direction and spin intensity is varying.
