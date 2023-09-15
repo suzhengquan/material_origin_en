@@ -31,16 +31,18 @@ translate later
 不同的速度)。伏特不使用正负描述，而是用自旋方向去决定相对的同向与相对的反向(万向，使用矢量
 方式计算)，而自旋的强度决定电伏(伏特，正比，相对的强，相对的弱)。电频(频率)形成电子的轮廓(如
 同齿轮样子)，频率越低齿宽(齿轮概念)越大，频率越高齿宽越小如同圆(无限接近圆)。当齿宽(二分之一)
-大于质的冠幅，电子将在质与质之间迁跃(受到质的牵引电子突破质场时会消耗部分自旋动能)，直至泯
-灭。电子频率(跳跃/迁跃)速度>质场力传导速度(无电子效应情况)>光速(有电子效应情况，矢量最终值，
-质移动方向与移动加速度)。
+大于质的冠幅，电子将在质与质之间迁跃(受到质的牵引电子突破质场时会消耗部分自旋动能，同时可以理解为
+一个质的电容迁跃到其他质中了)，直至泯灭。电子频率(跳跃/迁跃)速度>质场力传导速度(无电子效应情况)>光速(有电
+子效应情况，矢量最终值，质移动方向与移动加速度)。
 
    Radio waves is strung together and coherent electrical particles,the electric particles's frequency,
    direction of movement and acceleration is general same. And the spin direction and spin intensity is varying.
 
-   关于声波传播则需要有对质场产生效应的气体(有原子核外质/电容的物质)，声源震动气体，气体对质场产生了
-力的传导，质场从而把力传导到其他物质的原子核外电容(核外质)引起摆动。(即使作用力很小也要把这
-些力附加上去如同计算混音效果，想想2012年那来自天外的爆炸声和喧杂声)
+   Regarding the propagation of sound waves, it is necessary to have a gas that has an effect on the 
+   mass field (substance with extranuclear mass/capacitance),the sound source vibrates the gas, which generates 
+   force transmission on the mass field,mass field that transmits force to extranuclear mass of other substances,causing 
+   oscillation.(Even if the force is small, attaching these forces is like calculating the mixing voice effect,
+   think about the explosion and noise from beyond in 2012 years)
 
    #### Neutron
 The electric particle (y frequency) collides with the electric particle from behind and is enveloped 
@@ -57,13 +59,13 @@ Neutrons that are independent and stationary can be destroyed by slight heating.
    Giant magnetic levitation and space pulses require understanding and manufacturing the mass field.
 
    Chemistry substance's truth is physics.So all problems with substance should be explained using 
-   physics, rather than using Sudoku (mathematical games).
+   physics, rather than using Sudoku (mathematical games).Remarkable achievements does not need fuzzy.
 
     #### Lithium atom (as shown in the figure)
     The mass is entwined with electrons within the nucleus (as shown in the diagram, actually mass connected 
     into one piece, forming an insurmountable outer shell of substance), and due to the mass field effect, the 
-    fierce convex part is excited squeezed, the mass field overflows to form extranuclear mass (red region, concept 
-    of protonuclear extranuclear electrons)
+    fierce convex part is excited squeezed, the mass field overflows to form extranuclear mass (red region, original 
+    extranuclear electrons concept)
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
 
