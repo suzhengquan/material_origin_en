@@ -39,7 +39,7 @@ translate later
    direction of movement and acceleration is general same. And the spin direction and spin intensity is varying.
 
    关于声波传播则需要有对质场产生效应的气体(有原子核外质/电容的物质)，声源震动气体，气体对质场产生了
-力的传导，质场从而把力传导到其他物质的原子核外电子(核外质)引起摆动。(即使作用力很小也要把这
+力的传导，质场从而把力传导到其他物质的原子核外电容(核外质)引起摆动。(即使作用力很小也要把这
 些力附加上去如同计算混音效果，想想2012年那来自天外的爆炸声和喧杂声)
 
    #### Neutron
@@ -66,6 +66,8 @@ Neutrons that are independent and stationary can be destroyed by slight heating.
     of protonuclear extranuclear electrons)
 
 ![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
+
+![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium_.png?raw=true)
 
     #### When a beam of light moves near the sun, it is affected by the mass field of the sun(as shown in the figure)
 
