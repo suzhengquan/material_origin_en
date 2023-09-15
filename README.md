@@ -5,7 +5,7 @@
    and media used by each stage node are different).What kind of ideology, and what kind of civilization generate,
    what kind of civilization generated, and what kind of technology invented.Inferior civilizations 
    do not deserve advanced technology,the innate formation of advanced ideology is more perfect,and character 
-   is the most important.(A beauty spirit,the beautiful soul will be collected)。
+   is the most important.(A beauty spirit,the beautiful soul will be collected).
 
    #### The fountain of energy for all things:mass (granular fluid)(God's capacitance)('Glory' of God fountain product),inherit the last wish of God and lead all things.
 
@@ -32,9 +32,9 @@ translate later
    the speed of light is not a constant, and in most cases it is at a different speed).Volt does not use a 
    positive or negative description, but rather uses the spin direction to determine the relative direction and 
    opposite direction (universal, calculated using vector method), and the strength of the spin determines the 
-   electric voltage(Volt, proportional, relative strong, relative weak)。Electric frequency forming the contour of 
-   electrons(Like a gear)，The lower the frequency, the larger the tooth width (gear concept),The higher the frequency, 
-   the smaller the tooth width, like a circle(Infinite proximity circle).When the tooth width (a half) is greater than the mass
+   electric voltage(volt, proportional, relative strong, relative weak).Electric frequency forming the contour of 
+   electrons(Like a gear)，the lower the frequency, the larger the tooth width (gear concept),and the higher the frequency, 
+   the smaller the tooth width, like a circle(infinite proximity circle).When the tooth width (a half) is greater than the mass
    crown width,electrons will migrated between masses(When electrons are pulled by the mass to break through the mass field, 
    they will consume some spin kinetic energy, which can be understood as a part capacitor of mass has migrated to another mass),
    until electrons disappears.Electronic frequency (flutter/migrated) speed > Mass field force transmission velocity (without electronic effects)>Speed of 
