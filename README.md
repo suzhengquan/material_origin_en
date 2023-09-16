@@ -25,7 +25,7 @@ translate later
 状态，无限的膨胀以后将成为新的问题)。没有个性的质只能随流(质场)。有个性的质可以一飞冲天，漫
 游星际。
 
-   #### Electrons(with frequency hopping, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
+   #### Electrons(with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
    Usually, the collision between mass (with electrons in general) and mass (with electrons in general) consumes 
    the capacity of these two masses and allocates a new mass to form the direction and acceleration of 
    movement(Calculate using vector method. The speed of light is very fast and difficult to capture, but 
@@ -72,11 +72,13 @@ Neutrons that are independent and stationary can be destroyed by slight heating.
     fierce convex part is excited squeezed, the mass field overflows to form extranuclear mass (red region, original 
     extranuclear electrons concept)
 
-![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium.png?raw=true)
+![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/Lithium.png?raw=true)
 
-![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/Lithium_.png?raw=true)
+![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/Lithium_.png?raw=true)
 
-    #### When a beam of light moves near the sun, it is affected by the mass field of the sun(as shown in the figure)
+![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/MassAndMassField.png?raw=true)
 
-![Image text](https://github.com/suzhengquan/material_origin_cn/blob/main/sun.png?raw=true)
+    #### When five beam of light moves near the sun, it is affected by the mass field of the sun(as shown in the figure)
+
+![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/sun.png?raw=true)
 
