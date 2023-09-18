@@ -79,6 +79,7 @@ Neutrons that are independent and stationary can be destroyed by slight heating.
 ![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/MassAndMassField.png?raw=true)
 
     #### When five beam of light moves near the sun, it is affected by the mass field of the sun(as shown in the figure)
+    Five eyes can not see five beam of light.
 
 ![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/sun.png?raw=true)
 
