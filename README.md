@@ -31,7 +31,7 @@ translate later
    movement(Calculate using vector method. The speed of light is very fast and difficult to capture, but 
    the speed of light is not a constant, and in most cases it is at a different speed).Volt does not use a 
    positive or negative description, but rather uses the spin direction to determine the relative direction and 
-   opposite direction (universal, calculated using vector method), and the strength of the spin determines the 
+   opposite direction (Infinite many of directions, calculated using vector method), and the strength of the spin determines the 
    electric voltage(volt, proportional, relative strong, relative weak).Electric frequency forming the contour of 
    electrons(Like a gear)，the lower the frequency, the larger the tooth width (gear concept),and the higher the frequency, 
    the smaller the tooth width, like a circle(infinite proximity circle).When the tooth width (a half) is greater than the mass
