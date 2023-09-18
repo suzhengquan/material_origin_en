@@ -4,23 +4,26 @@
    spread in a religion manner (spreading among civilizations in various galaxies,the content 
    and media used by each stage node are different).What kind of ideology, and what kind of civilization generate,
    what kind of civilization generated, and what kind of technology invented.Inferior civilizations 
-   do not deserve advanced technology,the innate formation of advanced ideology is more perfect,and character 
+   do not deserve advanced technology,the innate formation of advanced ideology is more perfect,and the character 
    is the most important.(A beauty spirit,the beautiful soul will be collected).
 
    #### The fountain of energy for all things:mass (granular fluid)(God's capacitance)('Glory' of God fountain product),inherit the last wish of God and lead all things.
 
-   
-translate later
-
    #### Mass(original proton concept, granular fluid)
-   吸收红外电粒子的能量(频率跳跃，自旋，移动加速度的动能)，帮助其他电粒子(红外
-频率以外，临界值暂时不明确，与质的冠幅有关)充电。质的力由质与质所传导，质被质场所吸引，并且
-受质场力的方向与力的加速度传导所影响(质作为一份子加入到质场中)。与质场的源距离越远，力的加
-速度越小，反之亦然(1元的磁铁肯定比不上100元的)。由于地球质场影响，同一光源，向下照的光比向
-上照的光快两个地球重力加速度。由于受红外电粒子(不是迁跃情况，而是在同个质中跳跃)的影响，主要是
-因为红外电子受质的牵引，由于自旋原因红外电子以圆轨路径在质里颤动，质被撑大，所以物质表现出
-热涨冷缩特性。若非有足够的加速度，质与质之间不可逾越，反之则可以。(这里有件事不确定的就是质
-与质是否相互吸收形成饱和，还是相互充电形成均衡，如果按神的想法公平更重要，则后者可能性更高
+   Absorb the energy of infrared electric particles (frequency flutter, spin, kinetic energy
+   of motion acceleration),help other electric particles charge(Beyond the infrared frequency, 
+   the critical value is temporarily unclear and is related to the mass of the crown width).
+   The force of mass is transmitted by mass and mass,mass is attracted by mass field,and it is 
+   conduction influenced by mass field's direction of the force and the acceleration of the 
+   force.(mass join the mass field as a member).The farther away from the source of the mass field,
+   the smaller the acceleration of the force, and vice versa(A 1 dollar magnet is definitely not as 
+   good as a 100 dollar magnet).Due to the influence of the Earth's mass field, with the same light source,
+   downward light is faster than upward light two Earth's gravitational acceleration.Due to the influence of 
+   infrared electric particles(It's not migrated situation, but flutter within the same mass),Mainly due to
+   infrared electrons traction by mass,spinning infrared electrons flutter in the mass along a circular orbit path,
+   the mass be propped up,so substances exhibit expand when heated and contract when cooled.Unless there is sufficient 
+   acceleration, the mass and mass cannot be penetrate,on the contrary, it can be.(One thing that's uncertain here is 
+   does mass absorb each other to form saturation, or does it charge each other to form equilibrium,如果按神的想法公平更重要，则后者可能性更高
 ，也解释宇宙在膨胀的原因。膨胀也间接表明很多星球在产生高频电子，产生更多的质，处于不稳定的
 状态，无限的膨胀以后将成为新的问题)。没有个性的质只能随流(质场)。有个性的质可以一飞冲天，漫
 游星际。
