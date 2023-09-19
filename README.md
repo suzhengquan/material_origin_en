@@ -15,18 +15,19 @@
    the critical value is temporarily unclear and is related to the mass of the crown width).
    The force of mass is transmitted by mass and mass,mass is attracted by mass field,and it is 
    conduction influenced by mass field's direction of the force and the acceleration of the 
-   force.(mass join the mass field as a member).The farther away from the source of the mass field,
+   force.(mass join to mass field as a member).The farther away from the source of the mass field,
    the smaller the acceleration of the force, and vice versa(A 1 dollar magnet is definitely not as 
    good as a 100 dollar magnet).Due to the influence of the Earth's mass field, with the same light source,
    downward light is faster than upward light two Earth's gravitational acceleration.Due to the influence of 
-   infrared electric particles(It's not migrated situation, but flutter within the same mass),Mainly due to
+   infrared electric particles(It's not migrated situation, but flutter within the same mass),mainly due to
    infrared electrons traction by mass,spinning infrared electrons flutter in the mass along a circular orbit path,
    the mass be propped up,so substances exhibit expand when heated and contract when cooled.Unless there is sufficient 
    acceleration, the mass and mass cannot be penetrate,on the contrary, it can be.(One thing that's uncertain here is 
-   does mass absorb each other to form saturation, or does it charge each other to form equilibrium,如果按神的想法公平更重要，则后者可能性更高
-，也解释宇宙在膨胀的原因。膨胀也间接表明很多星球在产生高频电子，产生更多的质，处于不稳定的
-状态，无限的膨胀以后将成为新的问题)。没有个性的质只能随流(质场)。有个性的质可以一飞冲天，漫
-游星际。
+   does mass absorb each other to form saturation, or does it charge each other to form equilibrium,if fairness is more
+   important according to God's ideas,the latter is more possibility,also explain why the universe is expanding.
+   Expansion also indirectly indicates that many planets are generating high-frequency electrons, producing more mass,
+   and being in an unstable state. Infinite expansion will become a new problem).Mass without personality can only 
+   follow the flow(mass field),individualized mass can soar into the sky and roam the interstellar space.
 
    #### Electrons(with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
    Usually, the collision between mass (with electrons in general) and mass (with electrons in general) consumes 
@@ -38,8 +39,8 @@
    electric voltage(volt, proportional, relative strong, relative weak).Electric frequency forming the contour of 
    electrons(Like a gear)，the lower the frequency, the larger the tooth width (gear concept),and the higher the frequency, 
    the smaller the tooth width, like a circle(infinite proximity circle).When the tooth width (a half) is greater than the mass
-   crown width,electrons will migrated between masses(When electrons are pulled by the mass to break through the mass field, 
-   they will consume some spin kinetic energy, which can be understood as a part capacitor of mass has migrated to another mass),
+   crown width,electrons will migrated between masses(under mass traction,electrons break through the mass field, they will 
+   consume some spin kinetic energy, which can be understood as a part capacitor of mass has migrated to another mass),
    until electrons disappears.Electronic frequency (flutter/migrated) speed > Mass field force transmission velocity (without electronic effects)>Speed of 
    light (with electronic effects, final vector value, direction of mass movement and acceleration)
 
