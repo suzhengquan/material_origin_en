@@ -56,8 +56,9 @@
    #### Neutron
 The electric particle (y frequency) collides with the electric particle from behind and is enveloped 
 (moving in the same direction, accelerating faster, so it catches up),form internal entanglement. The collided 
-electric particle flipped inside and out,so the neutron outer wall exhibits a relatively opposite characteristic.
-Neutrons that are independent and stationary can be destroyed by slight heating.
+electric particle is wrapped in the colliding electric particle, and due to centripetal squeezed and causing 
+force reversal,so the neutron outer wall exhibits a relatively opposite characteristic.Neutrons that are independent
+ and stationary can be destroyed by slight heating.
 
    #### Mass field
    Composed of the direction and the acceleration(vector concept).Regarding the three major fields of physics 
