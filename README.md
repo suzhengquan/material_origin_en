@@ -29,7 +29,7 @@
    and being in an unstable state. Infinite expansion will become a new problem).Mass without personality can only 
    follow the flow(mass field),individualized mass can soar into the sky and roam the interstellar space.
 
-   #### Electrons(with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
+   #### Electrons(mass point,with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
    Usually, the collision between mass (with electrons in general) and mass (with electrons in general) consumes 
    the capacity of these two masses and allocates a new mass to form the direction and acceleration of 
    movement(Calculate using vector method. The speed of light is very fast and difficult to capture, but 
@@ -88,3 +88,6 @@ force reversal,so the neutron outer wall exhibits a relatively opposite characte
 
 ![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/sun.png?raw=true)
 
+    #### The principle of thermal conductivity of substances
+    
+    #### The electric conduction of substances and the electric superconducting properties
