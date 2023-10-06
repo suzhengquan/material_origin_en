@@ -11,13 +11,13 @@
 
    #### Mass(original proton concept, granular fluid)
    Absorb the energy of infrared electric particles (frequency flutter, spin, kinetic energy
-   of motion acceleration),help other electric particles charge(Beyond the infrared frequency, 
-   the critical value is temporarily unclear and is related to the mass of the crown width).
-   The force of mass is transmitted by mass and mass,mass is attracted by mass field,and it is 
-   conduction influenced by mass field's direction of the force and the acceleration of the 
-   force.(mass join to mass field as a member).The farther away from the source of the mass field,
-   the smaller the acceleration of the force, and vice versa(A 1 dollar magnet is definitely not as 
-   good as a 100 dollar magnet).Due to the influence of the Earth's mass field, with the same light source,
+   of motion acceleration).After electron generation, establish sustained force transmission around the environment, 
+   so mass needs to help electronics(Beyond the infrared low frequency, the critical value is temporarily unclear 
+   and is related to the mass of the crown width)maintain various accelerations so that they do not quickly disappear.
+   The force of mass is transmitted by mass and mass,mass is attracted by mass field,and it is conduction influenced 
+   by mass field's direction of the force and the acceleration of the force.(mass join to mass field as a member).
+   The farther away from the source of the mass field,the smaller the acceleration of the force, and vice versa.
+   Due to the influence of the Earth's mass field, with the same light source,
    downward light is faster than upward light two Earth's gravitational acceleration.Due to the influence of 
    infrared electric particles(It's not migrated situation, but flutter within the same mass),mainly due to
    infrared electrons traction by mass,spinning infrared electrons flutter in the mass along a circular orbit path,
@@ -29,7 +29,7 @@
    and being in an unstable state. Infinite expansion will become a new problem).Mass without personality can only 
    follow the flow(mass field),individualized mass can soar into the sky and roam the interstellar space.
 
-   #### Electrons(mass point,with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
+   #### Electrons(with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
    Usually, the collision between mass (with electrons in general) and mass (with electrons in general) consumes 
    the capacity of these two masses and allocates a new mass to form the direction and acceleration of 
    movement(Calculate using vector method. The speed of light is very fast and difficult to capture, but 
@@ -56,7 +56,7 @@
    #### Neutron
 The electric particle (y frequency) collides with the electric particle from behind and is enveloped 
 (moving in the same direction, accelerating faster, so it catches up),form internal entanglement. The collided 
-electric particle is wrapped in the colliding electric particle, and due to centripetal squeezed and causing 
+electric particle is wrapped in the colliding electric particle, and due to within atoms centripetal squeezed and causing 
 force reversal,so the neutron outer wall exhibits a relatively opposite characteristic.Neutrons that are independent
  and stationary can be destroyed by slight heating.
 
