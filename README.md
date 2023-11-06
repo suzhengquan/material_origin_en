@@ -29,7 +29,7 @@
    and being in an unstable state. Infinite expansion will become a new problem).Mass without personality can only 
    follow the flow(mass field),individualized mass can soar into the sky and roam the interstellar space.
 
-   #### Electrons(with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
+   #### Mover(original electrons concept, with frequency flutter, the spinning mass generates a mass field and forms electrons. If one of them is zero, the electrons disappear and the mass remains)
    Usually, the collision between mass (with electrons in general) and mass (with electrons in general) consumes 
    the capacity of these two masses and allocates a new mass to form the direction and acceleration of 
    movement(Calculate using vector method. The speed of light is very fast and difficult to capture, but 
@@ -53,7 +53,7 @@
    oscillation.(Even if the force is small, attaching these forces is like calculating the mixing voice effect,
    think about the explosion and noise from beyond in 2012 years)
 
-   #### Neutron
+   #### Repeller (original neutron concept)
 The electric particle (y frequency) collides with the electric particle from behind and is enveloped 
 (moving in the same direction, accelerating faster, so it catches up),form internal entanglement. The collided 
 electric particle is wrapped in the colliding electric particle, and due to within atoms centripetal squeezed and causing 
@@ -91,3 +91,5 @@ force reversal,so the neutron outer wall exhibits a relatively opposite characte
     #### The principle of thermal conductivity of substances
     
     #### The electric conduction of substances and the electric superconducting properties
+    
+![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/Esupercond.png?raw=true)
