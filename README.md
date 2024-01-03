@@ -85,6 +85,8 @@ force reversal,so the neutron outer wall exhibits a relatively opposite characte
 
 ![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/frequency.png?raw=true)
 
+![Image text](https://github.com/suzhengquan/material_origin_en/blob/main/transfer.png?raw=true)
+
     #### When five beam of light moves near the sun, it is affected by the mass field of the sun(as shown in the figure)
     Five eyes can not see five beam of light.
 
